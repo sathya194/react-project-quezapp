@@ -1,0 +1,17 @@
+[
+    {   "id":1,
+        "question": "my age is?", 
+        "options":["28", "10",  "15",  "25" ],
+        "correctOption": "28"
+    }, 
+    {   "id":2,
+        "question": "my name is ?", 
+        "options":["rogan", "samy",  "moorthy",  "naresh" ],
+        "correctOption": "moorthy"
+    }, 
+    {   "id":3,
+        "question": "my native is ?", 
+        "options":["chennai", "benglore",  "coimbatore",  "thiruchy" ],
+        "correctOption": "chennai"
+    }
+]
